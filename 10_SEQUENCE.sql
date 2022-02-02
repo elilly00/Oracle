@@ -53,12 +53,3 @@ NOCACHE;
 
 SELECT SEQ_EMPID.NEXTVAL FROM DUAL;
 -- CYCLE을 입력했기 때문에 400이 넘으면 기본값인 1로 돌아감
-
-
-
-
-
-
-
-
-
